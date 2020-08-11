@@ -1,0 +1,3 @@
+include ':hdimensions'
+include ':app'
+rootProject.name = "HDimensions"
