@@ -1,12 +1,28 @@
-# Scalable Dimens - A scalable size unit  
+# Sdimen - A scalable size unit  
 - An android SDK that provides a new size unit - sdp (scalable dp). This size unit scales with the screen size. It can help Android developers with supporting multiple screens.  
+
+- Use it carefully! for example, in most cases you still need to design a different layout for tablets.
+
+# Example
+[Here](https://github.com/hoangvuanhdevelopervn/sdimen/blob/master/app/src/main/res/layout/fragment_first.xml) is a single layout built using sdp:
+
+![(https://firebasestorage.googleapis.com/v0/b/contact-15400.appspot.com/o/Images%2FScreenshots%2FScreenshot_1597152376.png?alt=media&token=0e0b64be-71ab-468f-8305-8d463e789f3e](https://firebasestorage.googleapis.com/v0/b/contact-15400.appspot.com/o/Images%2FScreenshots%2FScreenshot_1597152376.png?alt=media&token=0e0b64be-71ab-468f-8305-8d463e789f3e)
+
+
+![dp example](https://firebasestorage.googleapis.com/v0/b/contact-15400.appspot.com/o/Images%2FScreenshots%2FScreenshot_2020-08-11-20-30-32-787_com.hvasoftware.hdimensions.jpg?alt=media&token=4a480acf-e702-495d-abad-d58d094bc116](https://firebasestorage.googleapis.com/v0/b/contact-15400.appspot.com/o/Images%2FScreenshots%2FScreenshot_2020-08-11-20-30-32-787_com.hvasoftware.hdimensions.jpg?alt=media&token=4a480acf-e702-495d-abad-d58d094bc116))
+
+
+![GitHub Logo](https://firebasestorage.googleapis.com/v0/b/contact-15400.appspot.com/o/Images%2FScreenshots%2FScreenshot_2020-08-11-20-30-38-199_com.hvasoftware.hdimensions.jpg?alt=media&token=018a2c7e-ed0e-4fc7-86fc-48cf13b79d87)
+
+
+You can see that sdp scales with the screen size and the dp stays with the same size on all screen sizes.
 
 
 # Gradle Dependency
 
 ### Repository
 
-The Gradle dependency is available via [Scalable-Dimensions](https://jitpack.io/#hoangvuanhdevelopervn/Scalable-Dimensions).
+The Gradle dependency is available via [scalable dimens](https://jitpack.io/#hoangvuanhdevelopervn/sdime).
 
 To use JitPack repository you need to add to your root build.gradle line that it at the end of repositories:
 
