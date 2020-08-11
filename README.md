@@ -23,7 +23,7 @@ And as next step add dependency to project:
 
 ```gradle
 dependencies  {
-    implementation 'com.github.hoangvuanhdevelopervn:Scalable-Dimensions:-SNAPSHOT'
+    implementation 'com.github.hoangvuanhdevelopervn:sdimen:-SNAPSHOT'
 }
 ```
 
