@@ -3,8 +3,6 @@
 
 - Use it carefully! for example, in most cases you still need to design a different layout for tablets.
 
-# Example image use sdp 
-
 
 
 ![dp example](https://firebasestorage.googleapis.com/v0/b/contact-15400.appspot.com/o/Images%2FScreenshots%2FScreenshot_2020-08-11-20-30-32-787_com.hvasoftware.hdimensions.jpg?alt=media&token=4a480acf-e702-495d-abad-d58d094bc116)
