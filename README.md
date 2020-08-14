@@ -40,7 +40,7 @@ And as next step add dependency to project:
 
 ```gradle
 dependencies  {
-    implementation 'com.github.hoangvuanhdevelopervn:sdimen:-SNAPSHOT'
+    implementation 'com.github.hoangvuanhdevelopervn:sdimen:1.0'
 }
 ```
 
