@@ -2,6 +2,8 @@
 
 
   [![](https://jitpack.io/v/hoangvuanhdevelopervn/sdimen.svg)](https://jitpack.io/#hoangvuanhdevelopervn/sdimen)
+  [![GitHub license](https://img.shields.io/hexpm/l/plug.svg)](https://github.com/ogiba/StyleableShareDialog/blob/master/LICENSE)
+[![Android](https://img.shields.io/badge/platform-android-green.svg)](https://developer.android.com/index.html)
 
 - An android SDK that provides a new size unit - sdp (scalable dp). This size unit scales with the screen size. It can help Android developers with supporting multiple screens.  
 
