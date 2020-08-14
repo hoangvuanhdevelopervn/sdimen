@@ -1,4 +1,8 @@
 # Sdimen - A scalable size unit  
+
+
+  [![](https://jitpack.io/v/hoangvuanhdevelopervn/sdimen.svg)](https://jitpack.io/#hoangvuanhdevelopervn/sdimen)
+
 - An android SDK that provides a new size unit - sdp (scalable dp). This size unit scales with the screen size. It can help Android developers with supporting multiple screens.  
 
 - Use it carefully! for example, in most cases you still need to design a different layout for tablets.
